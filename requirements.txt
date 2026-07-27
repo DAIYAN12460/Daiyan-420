@@ -1,0 +1,13 @@
+aiohttp
+aiofiles
+psutil
+cryptography
+pbkdf2
+pyaes
+rsa
+requests
+beautifulsoup4
+colorama
+protobuf
+orjson
+python-dotenv
